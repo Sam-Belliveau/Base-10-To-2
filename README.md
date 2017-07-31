@@ -1,5 +1,6 @@
 # Base 10 To 2
 This is a simple app that turns numbers to binary.
+
 The code for this is:
 ```cpp
 void printBinary(long long int number) {
